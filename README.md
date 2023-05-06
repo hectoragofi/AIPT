@@ -1,3 +1,6 @@
+# Does not work anymore. The chatGPT wrapper stoped working.
+
+
 
 # AI Presentation Thing
 
